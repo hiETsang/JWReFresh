@@ -3,7 +3,7 @@
 //  美食
 //
 //  Created by qianfeng on 15/9/23.
-//  Copyright (c) 2015年 1000phone. All rights reserved.
+//  Copyright (c) 2015年 JW. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
